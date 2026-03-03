@@ -1,0 +1,3 @@
+C:/Users/lucas/Downloads/ProjetoAutocarroFaltaOp6VaisFazerQuintasOuvaisTer0NoProjeto/Autocarros_4/cmake-build-debug/CMakeFiles/AutocarrosV2.dir
+C:/Users/lucas/Downloads/ProjetoAutocarroFaltaOp6VaisFazerQuintasOuvaisTer0NoProjeto/Autocarros_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lucas/Downloads/ProjetoAutocarroFaltaOp6VaisFazerQuintasOuvaisTer0NoProjeto/Autocarros_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
